@@ -1,6 +1,6 @@
-my_f = open("text6.txt","r")
+my_f5 = open("text6.txt","r")
 my_f1 = []
-for i in my_f:
+for i in my_f5:
     i = i.split()
     if int(i[1]) < 20000:
         my_f1.append(i[0])
