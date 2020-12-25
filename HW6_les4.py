@@ -11,7 +11,3 @@ for el in cycle("Geekbrains"):
         break
     print(el)
     a += 1
-
-
-
-
