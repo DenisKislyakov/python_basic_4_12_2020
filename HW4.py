@@ -1,4 +1,4 @@
-
+https://drive.google.com/file/d/1fkJcZ41SVNZk3ePIwa3FWDWHFB0JcMKi/view?usp=sharing
 #Определить, является ли год, который ввел пользователь, високосным или не високосным.
 
 year = int(input("Введите год: "))
